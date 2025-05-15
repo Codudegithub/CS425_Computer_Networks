@@ -10,10 +10,9 @@
 6. [Edge Cases Considered](#edge-cases-considered)
 7. [Restrictions](#restrictions)
 8. [Challenges](#challenges)
-9. [Contribution of Each Member](#contribution-of-each-member)
-10. [Sources Referred](#sources-referred)
-11. [Declaration](#declaration)
-12. [Feedback](#feedback)
+9. [Sources Referred](#sources-referred)
+10. [Declaration](#declaration)
+11. [Feedback](#feedback)
 
 ---
 
@@ -175,15 +174,6 @@ Note that extract_next_nameservers function is unable to map all the name server
   Understanding and correctly using the dnspython library for both iterative and recursive queries posed a learning challenge.
 - **Debugging Network Queries:**  
   Detailed logging was necessary to trace the iterative resolution steps and verify correct behavior.
-
----
-
-## Contribution of Each Member
-
-| Team Member               | Contribution (%) | Responsibilities                                                       |
-| ------------------------- | ---------------- | ---------------------------------------------------------------------- |
-| Aarsh Walavalkar (220013) | 50%              | Implemented iterative resolution, error handling, debugging and README |
-| Nilay Agarwal(220714)     | 50%              | Implemented recursive resolution, integration, testing and README      |
 
 ---
 
