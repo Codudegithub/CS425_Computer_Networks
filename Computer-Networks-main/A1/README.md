@@ -11,10 +11,9 @@
 7. [Edge Cases Considered](#edge-cases-considered)
 8. [Restrictions](#restrictions)
 9. [Challenges](#challenges)
-10. [Contribution of Each Member](#contribution-of-each-member)
-11. [Sources Referred](#sources-referred)
-12. [Declaration](#declaration)
-13. [Feedback](#feedback)
+10. [Sources Referred](#sources-referred)
+11. [Declaration](#declaration)
+12. [Feedback](#feedback)
 
 ---
 
